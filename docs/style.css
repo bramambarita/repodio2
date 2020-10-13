@@ -1,0 +1,11 @@
+body{
+	background-image: url(back.png);
+	width: 100%;
+	height: 100%;
+}
+
+.container{
+	background-image: url(img.png);
+	color: #c6f895;
+	padding: 50px;
+}
